@@ -1,0 +1,3 @@
+1. Open .pcap file in Wireshark.
+2. Open the HTTP sub-section of the packet information.
+3. Then open the Authorization sub section.
